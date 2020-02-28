@@ -1,0 +1,16 @@
+.posts{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: black 3px solid;
+    width: 35%;
+    box-shadow: 10px 10px 10px blue;
+    padding: 10px;
+}
+
+.postscont {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
